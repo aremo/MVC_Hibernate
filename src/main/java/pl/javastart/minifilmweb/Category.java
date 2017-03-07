@@ -6,7 +6,7 @@ public enum Category {
     SCI_FI,
     ROMANTIC,
     ACTION,
-`    DOCUMENT,
+    DOCUMENT,
     THRILLER,
     MUSICAL,
     HORROR,
